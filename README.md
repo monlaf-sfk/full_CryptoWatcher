@@ -16,7 +16,7 @@
 *   **Рабочее приложение (Фронтенд):** [https://front-nfac.vercel.app/](https://front-nfac.vercel.app/)
 *   **Бэкенд API:** [https://backendnfac-production.up.railway.app/](https://backendnfac-production.up.railway.app/)
     *   *Документация API (Swagger):* [https://backendnfac-production.up.railway.app/docs](https://backendnfac-production.up.railway.app/docs)
-*   **Видео-демо:** 
+*   **Видео-демо:** [Demo Video](https://youtu.be/pzSnIR_aOIQ)
 
 
 ---
