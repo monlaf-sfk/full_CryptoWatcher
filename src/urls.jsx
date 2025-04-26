@@ -1,0 +1,1 @@
+export const API_BASE_URL = "https://backendnfac-production.up.railway.app";
